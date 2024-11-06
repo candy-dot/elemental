@@ -34,4 +34,4 @@ Project is: complete.
 * The background image was based on [this tutorial](https://www.youtube.com/watch?v=t8yh9ycFgDI)
 * The audio was based on [this tutorial](https://www.youtube.com/watch?v=I6fG1wneXWo)
 * The timing for the animation used elements from [this blog](https://forum.arduino.cc/t/using-millis-for-timing-a-beginners-guide/483573)
-* The pulsating animation was inspired by the full code [here](http://vormplus.be/blog/article/an-introduction-to-processing-part-ii)
+* The pulsating animation was inspired by the full code [here]([http://vormplus.be/blog/article/an-introduction-to-processing-part-ii](https://web.archive.org/web/20121030210523/https://vormplus.be/blog/article/an-introduction-to-processing-part-ii))
