@@ -18,6 +18,6 @@ Elemental is a visual and audio aid intended for sleep. Its purpose is to allevi
 2. Open a sketch
 3. Go to 'Sketch' > 'Import Library' > 'Manage Libraries' > 'Libraries'
 4. Download 'Sound' by the Processing Foundation
-5. Download 'bg' and 'audio' files
-6. Move 'bg' and 'audio' into your sketch folder
+5. Download 'bg.jpg' and 'audio.mp3' files from the main page
+6. Move 'bg.jpg' and 'audio.mp3' into your sketch folder
 7. Run sketch
