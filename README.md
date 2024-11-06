@@ -22,7 +22,7 @@ Elemental is a visual and audio aid intended for sleep. Its purpose is to allevi
 6. Move 'bg.jpg' and 'audio.mp3' into your sketch folder.
 
 ## Usage
-Copy and paste the code into a sketch in processing, then let it run!
+Copy and paste the code into your sketch in processing, then let it run!
 
 ## Project status
 Project is: complete.
