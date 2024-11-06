@@ -10,10 +10,6 @@ Elemental is a visual and audio aid intended for sleep. Its purpose is to allevi
 * Processing 4
 * Sound 2.4.0 (The Processing Foundation)
 
-## Audio and visual elements
-* bg
-* audio
-
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/0ce20e1d-7e5c-4f25-bca8-74e4ea16bd43)
 
