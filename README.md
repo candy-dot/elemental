@@ -30,8 +30,8 @@ Project is: complete.
 * Add a feature that allows the user to toggle the animation to 'day/night' mode
 
 ## Acknowledgements
-* This project was inspired by _Breathe In Breathe Out_ by @thedotisblack: [url](https://www.youtube.com/watch?v=5-ttqEsf518)
-* The background image was based on this tutorial: ([url](https://www.youtube.com/watch?v=t8yh9ycFgDI))
-* The audio was based on this tutorial: [url](https://www.youtube.com/watch?v=I6fG1wneXWo)
-* The timing for the animation used elements from this blog: [url](https://forum.arduino.cc/t/using-millis-for-timing-a-beginners-guide/483573)
-* The pulsating animation was inspired by the full code here: [url](http://vormplus.be/blog/article/an-introduction-to-processing-part-ii)
+* This project was inspired by [_Breathe In Breathe Out_](https://www.youtube.com/watch?v=5-ttqEsf518) by @thedotisblack
+* The background image was based on ([this tutorial](https://www.youtube.com/watch?v=t8yh9ycFgDI))
+* The audio was based on [this tutorial](https://www.youtube.com/watch?v=I6fG1wneXWo)
+* The timing for the animation used elements from [this blog](https://forum.arduino.cc/t/using-millis-for-timing-a-beginners-guide/483573)
+* The pulsating animation was inspired by the full code [here](http://vormplus.be/blog/article/an-introduction-to-processing-part-ii)
